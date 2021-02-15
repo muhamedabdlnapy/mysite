@@ -79,7 +79,7 @@
             <h1>MUHAMED AHMED ABD ELNAPY</h1>
             <h6>FULL-STACK Software Engineer , AI developer.</h6>
             <div class="hero__links">
-              <a href="docs/my cv 2.docx" target="_blank" class="hero__resume btn" title="Click to view my Resume">View CV</a>
+              <a href="https://drive.google.com/file/d/1CU-5XD2eIMUC23Q0pxlJ5LkqbD99jOlL/view?usp=sharing" target="_blank" class="hero__resume btn" title="Click to view my Resume">View CV</a>
               <ul class="hero__social">
                 <li>
                   <a href="https://github.com/muhamedabdlnapy" rel="noopener" target="_blank" title="Github">
