@@ -107,12 +107,7 @@
                   <li>MUHAMED AHMED ABD ELNAPY</li>
                 </ul>
               </li>
-              <li>
-                <ul class="address-text">
-                  <li><b>D.O.B</b></li>
-                  <li>12-NOV-1999</li>
-                </ul>
-              </li>
+             
               <li>
                 <ul class="address-text">
                   <li><b>MOBILE </b></li>
