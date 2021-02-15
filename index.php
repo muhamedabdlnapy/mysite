@@ -153,7 +153,7 @@
             <h2>As a <span>Software Engineer</span></h2>
             <p><strong></strong> 
               
-              <p>Experienced Developer with a demonstrated history of Artificial intelligence( MACHINE learning , Deeb Learning) and working in web development industry. Skilled in Research, English, Analytical Skills, Engineering, and Communication. Strong engineering professional focused in Computer Science from Faculty of computer and information, Suez University.
+              <p>Experienced Developer with a demonstrated history of Artificial intelligence( MACHINE Learning , Deep Learning) and working in web development industry. Skilled in Research, English, Analytical Skills, Engineering, and Communication. Strong engineering professional focused in Computer Science from Faculty of computer and information, Suez University.
                           Very Good experience in AI Frameworks
                         (TensorFlow & OpenCV) </p>
               <ul>
