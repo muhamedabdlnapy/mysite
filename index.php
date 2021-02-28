@@ -276,13 +276,7 @@
                 </div>
               </div>
             </div>
-              <div class="col-md-6 right-div">
-              <div class="progress skill-bar">
-                <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                  <span class="skill">bootstrab <i class="val">75%</i></span>
-                </div>
-              </div>
-            </div>
+             
             
            <div class="col-md-6 right-div">
               <div class="progress skill-bar">
@@ -330,7 +324,7 @@
             <div class="clearfix"></div>
             <div class="progress skill-bar ">
               <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-                <span class="skill">NodeJS <i class="val">65%</i></span>
+                <span class="skill">NodeJS <i class="val">50%</i></span>
               </div>
             </div>
           </div>
