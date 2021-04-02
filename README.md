@@ -11,19 +11,4 @@ To view a live demo, [click here](https://muhamedabdelnapy.herokuapp.com/)
 
 ## Setup
 * Clone the repository
-* Replaced the content with your's info.
 
-## TODO
-* Have to setup Gulp or Webpack for minification of script files.
-* Make it dynamic
-* Provide feature to change the themes or colors easily.
-
-## Changelog
-
-### 1.0.0
-
-* Relesed stable version with basic content
-* Added skills section
-## License
-
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
